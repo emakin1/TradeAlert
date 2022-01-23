@@ -29,3 +29,4 @@ python -m ipykernel install --name=trade_alert
 These are just interesting links for reference.
 - [Stock Market Data and Analysis in Python](https://blog.quantinsti.com/stock-market-data-analysis-python/)
 - [Predicting Stock Prices with Linear Regression](https://www.alpharithms.com/predicting-stock-prices-with-linear-regression-214618/)
+- [Investopedia](https://www.investopedia.com/)
